@@ -96,3 +96,4 @@ let buscador= (input,selector)=>{
         }
     })
 }
+buscador("#propertieSearch",".direction")
